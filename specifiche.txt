@@ -1,0 +1,7 @@
+P0: contatori tot_sito e tot_utente, pulsanti tot_sito++ e tot_utente++
+P1: contatori tot_utente e tot_p1, pulsanti tot_utente++ e tot_p1++
+P2: vuota
+
+tot_sito memorizzato in file (con AJAX)
+tot_utente memorizzato con variabile di sessione
+tot_p1 variabile locale js
